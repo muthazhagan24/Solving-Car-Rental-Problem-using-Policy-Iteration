@@ -1,3 +1,6 @@
+### Name: Sri muthazhagan P
+### Register Number: 2305002024
+
 # Ex-3: Solving-Car-Rental-Problem-using-Policy-Iteration
 
 
